@@ -1,0 +1,17 @@
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/PortalNotifier
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/PortalNotifier.deps.json
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/PortalNotifier.runtimeconfig.json
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/PortalNotifier.dll
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/PortalNotifier.pdb
+/Users/mertguney/Desktop/PortalNotifier/bin/Debug/net8.0/HtmlAgilityPack.dll
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.csproj.AssemblyReference.cache
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.AssemblyInfoInputs.cache
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.AssemblyInfo.cs
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.csproj.CoreCompileInputs.cache
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNo.3D643B69.Up2Date
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.dll
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/refint/PortalNotifier.dll
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.pdb
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/PortalNotifier.genruntimeconfig.cache
+/Users/mertguney/Desktop/PortalNotifier/obj/Debug/net8.0/ref/PortalNotifier.dll

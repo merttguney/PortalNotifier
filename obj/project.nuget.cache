@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Z77HENtGxM=",
+  "success": true,
+  "projectFilePath": "/Users/mertguney/Desktop/PortalNotifier/PortalNotifier.csproj",
+  "expectedPackageFiles": [
+    "/Users/mertguney/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}
